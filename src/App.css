@@ -23,6 +23,17 @@
   font-size: 18px;
   color: gray;
 }
+.search-txt0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 35px;
+  color: black;
+  border-bottom: 5px solid black;
+  height: 10vh;
+  font-weight: bolder;
+}
 
 @media (max-width: 1440px) {
   .home{

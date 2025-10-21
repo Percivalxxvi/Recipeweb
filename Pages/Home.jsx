@@ -25,6 +25,7 @@ const Home = () => {
     
   return (
     <div>
+        <h1 className='search-txt0'>RECIPE WEB</h1>
         <div className='heading'>
             <input onChange={(e)=>setChoice(e.target.value)} type="text" />
             <button>SEARCH</button>
